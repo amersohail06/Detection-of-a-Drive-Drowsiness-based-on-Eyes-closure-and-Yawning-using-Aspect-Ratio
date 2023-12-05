@@ -4,4 +4,4 @@ The key methodology involves employing the HAAR Cascade algorithm for facial det
 Install Pycharm
 Install Python3.7.0
 Install MySQL and connect to MySQL Host
-for more details check Driver Drowsiness.docx
+for more details check https://github.com/amersohail06/Detection-of-a-Drive-Drowsiness-based-on-Eyes-closure-and-Yawning-using-Aspect-Ratio/blob/main/Driver%20Drowsiness%5B1%5D.docx
